@@ -2983,7 +2983,7 @@
 			dSAAAAAASUVORK5CYII=
 			</data>
 			<key>IsRemovable</key>
-			<false/>
+			<true/>
 			<key>Label</key>
 			<string>GlowBoard</string>
 			<key>PayloadDescription</key>
@@ -2991,11 +2991,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.8C058AE4-A30A-4C47-A7EE-5279AF8020F7</string>
+			<string>com.apple.webClip.managed.E59DBB20-D2B0-4D38-8B3C-03F9E692619A</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>8C058AE4-A30A-4C47-A7EE-5279AF8020F7</string>
+			<string>E59DBB20-D2B0-4D38-8B3C-03F9E692619A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -3017,7 +3017,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>3481AB64-BE95-40A5-8C4E-19B2A6232908</string>
+	<string>683451CC-6870-4B9B-9A81-0DD0AF976059</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
