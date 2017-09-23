@@ -7,6 +7,8 @@
 		<key>default</key>
 		<string>Click install to install Glowboard</string>
 	</dict>
+	<key>DurationUntilRemoval</key>
+	<integer>0</integer>
 	<key>HasRemovalPasscode</key>
 	<false/>
 	<key>PayloadContent</key>
@@ -3011,11 +3013,11 @@
 	<key>PayloadOrganization</key>
 	<string>Glowboard Third Party</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>0FCBD59F-9ECF-4AE1-9BBA-419BA924CC5E</string>
+	<string>3481AB64-BE95-40A5-8C4E-19B2A6232908</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
