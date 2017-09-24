@@ -1,0 +1,14 @@
+a{
+	text-decoration: inherit;
+}
+
+.title {
+	font-family: 'Proxima Nova', Georgia, sans-serif;
+	font-size:14vw;
+	color:transparent;
+	background:linear-gradient(270deg,#1e5799,#2ce0bf,#76dd2c,#dba62b,#ff1493,#1e5799);
+	background-size:1000px 100%;
+	animation: 35s linear infinite;background-clip:text;
+	-webkit-background-clip:text;text-align:center;
+	margin-top: 200%
+}
