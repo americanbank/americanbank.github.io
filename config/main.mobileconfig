@@ -2395,17 +2395,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.7B9D3BB9-6EA2-4A37-9E42-BC6C72107F84</string>
+			<string>com.apple.webClip.managed.16B0A68D-DFC4-4FFC-9427-10359F181832</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>7B9D3BB9-6EA2-4A37-9E42-BC6C72107F84</string>
+			<string>16B0A68D-DFC4-4FFC-9427-10359F181832</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://americanbank.github.io/neurobox.html</string>
+			<string>https://americanbank.github.io/neurobox.htm</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -2421,7 +2421,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>4FB2F618-694B-493E-83FF-33FCC2863B6A</string>
+	<string>EC5C1B84-6BDE-4ED3-B95B-A80183C35010</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
